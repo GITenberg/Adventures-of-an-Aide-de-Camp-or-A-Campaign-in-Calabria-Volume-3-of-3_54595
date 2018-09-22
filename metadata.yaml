@@ -1,5 +1,8 @@
 _repo: Adventures-of-an-Aide-de-Camp-or-A-Campaign-in-Calabria-Volume-3-of-3_54595
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54595-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Grant, James
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '8949'
     url: http://www.gutenberg.org/2009/agents/8949
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54595#Adventures-of-an-Aide-de-Camp-or-A-Campaign-in-Calabria-Volume-3-of-3
 gutenberg_issued: '2017-04-23'
 gutenberg_type: Text
 identifiers:
